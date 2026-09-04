@@ -7,7 +7,7 @@ about:
   head: 523262e
   archived: false
   latestVersion: v1.258.0
-  collectedAt: 2026-09-04T19:34:59Z
+  collectedAt: 2026-09-04T20:54:48Z
 timeline:
   created: 2020-05-19
   lastCommit: 2026-09-03
@@ -40,7 +40,7 @@ recent:
     openPR: 4
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 41
   last60d:
     since: 2026-07-06
     release: 7
@@ -48,7 +48,7 @@ recent:
     openPR: 5
     closedIssue: 3
     openIssue: 2
-    commit: 0
+    commit: 63
   last90d:
     since: 2026-06-06
     release: 8
@@ -56,7 +56,7 @@ recent:
     openPR: 5
     closedIssue: 6
     openIssue: 4
-    commit: 0
+    commit: 83
   last180d:
     since: 2026-03-08
     release: 16
@@ -64,7 +64,7 @@ recent:
     openPR: 6
     closedIssue: 14
     openIssue: 6
-    commit: 0
+    commit: 146
   last360d:
     since: 2025-09-09
     release: 25
@@ -72,7 +72,7 @@ recent:
     openPR: 7
     closedIssue: 40
     openIssue: 14
-    commit: 0
+    commit: 263
   last720d:
     since: 2024-09-14
     release: 61
@@ -89,6 +89,94 @@ total:
   openIssue: 107
   commit: 3325
 ---
+path: /home/runner/.x-repo/github.com/bytecodealliance/wasm-tools
+collectedAt: 2026-09-04T20:54:51Z
+loc:
+  Json:
+    code: 1810003
+    comments: 0
+    blanks: 0
+    files: 747
+  Rust:
+    code: 153909
+    comments: 7514
+    blanks: 16863
+    files: 434
+  WebAssembly:
+    code: 57524
+    comments: 4415
+    blanks: 4617
+    files: 1304
+  Toml:
+    code: 1019
+    comments: 110
+    blanks: 172
+    files: 29
+  CHeader:
+    code: 313
+    comments: 204
+    blanks: 56
+    files: 2
+  Bitbake:
+    code: 288
+    comments: 1715
+    blanks: 572
+    files: 1
+  TypeScript:
+    code: 197
+    comments: 13
+    blanks: 25
+    files: 4
+  Yaml:
+    code: 92
+    comments: 0
+    blanks: 1
+    files: 18
+  Html:
+    code: 72
+    comments: 1
+    blanks: 7
+    files: 3
+  Sh:
+    code: 70
+    comments: 23
+    blanks: 18
+    files: 5
+  CMake:
+    code: 53
+    comments: 1
+    blanks: 9
+    files: 2
+  Dockerfile:
+    code: 28
+    comments: 6
+    blanks: 9
+    files: 5
+  Css:
+    code: 25
+    comments: 0
+    blanks: 6
+    files: 1
+  C:
+    code: 9
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1622
+    blanks: 624
+    files: 27
+  Text:
+    code: 0
+    comments: 82
+    blanks: 10
+    files: 46
+total:
+  code: 2024104
+  comments: 31048
+  blanks: 25551
+  files: 2629
 ---
 date: "2026-08-24"
 repo:
