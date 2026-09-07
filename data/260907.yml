@@ -5,7 +5,7 @@ about:
   head: 523262e
   archived: false
   latestVersion: "v1.258.0"
-  collectedAt: 2026-09-07T04:50:49Z
+  collectedAt: 2026-09-07T19:38:25Z
 timeline:
   created: 2020-05-19
   lastCommit: 2026-09-03
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 1788
   watcher: 24
-  fork: 346
+  fork: 348
   release: 120
   contributor: 191
-  pullRequest: 2151
+  pullRequest: 2152
   issue: 470
 language:
   Rust: 6940324
@@ -35,7 +35,7 @@ recent:
     since: 2026-08-08
     release: 4
     mergedPR: 39
-    openPR: 5
+    openPR: 6
     closedIssue: 1
     openIssue: 2
     commit: 29
@@ -43,7 +43,7 @@ recent:
     since: 2026-07-09
     release: 6
     mergedPR: 63
-    openPR: 6
+    openPR: 7
     closedIssue: 3
     openIssue: 3
     commit: 60
@@ -51,7 +51,7 @@ recent:
     since: 2026-06-09
     release: 8
     mergedPR: 82
-    openPR: 6
+    openPR: 7
     closedIssue: 6
     openIssue: 5
     commit: 79
@@ -59,7 +59,7 @@ recent:
     since: 2026-03-11
     release: 16
     mergedPR: 141
-    openPR: 7
+    openPR: 8
     closedIssue: 14
     openIssue: 7
     commit: 144
@@ -67,7 +67,7 @@ recent:
     since: 2025-09-12
     release: 24
     mergedPR: 259
-    openPR: 8
+    openPR: 9
     closedIssue: 39
     openIssue: 15
     commit: 258
@@ -75,20 +75,20 @@ recent:
     since: 2024-09-17
     release: 61
     mergedPR: 652
-    openPR: 12
+    openPR: 13
     closedIssue: 101
     openIssue: 36
     commit: 624
 total:
   release: 120
   mergedPR: 2022
-  openPR: 19
+  openPR: 20
   closedIssue: 362
   openIssue: 108
   commit: 3325
 ---
 path: /home/runner/.x-repo/github.com/bytecodealliance/wasm-tools
-collectedAt: 2026-09-07T04:50:56Z
+collectedAt: 2026-09-07T19:38:30Z
 loc:
   Json:
     code: 1810003
@@ -319,7 +319,7 @@ checks:
       - 'Info:   1 out of   1 npmCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:50:58+00:00
+  collectedAt: 2026-09-07T19:38:32+00:00
   platform:
     darwin/arm64:
       name:  wasm-tools-1.258.0-aarch64-macos.tar.gz
