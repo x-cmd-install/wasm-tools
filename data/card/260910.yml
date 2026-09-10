@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.259.0"
   latestRelease: "v1.259.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:46:56Z
+  collectedAt: 2026-09-10T22:08:08Z
 timeline:
   created: 2020-05-19
   lastCommit: 2026-09-10
@@ -92,7 +92,7 @@ total:
   commit: 3332
 ---
 path: /home/runner/.x-repo/github.com/bytecodealliance/wasm-tools
-collectedAt: 2026-09-10T21:47:06Z
+collectedAt: 2026-09-10T22:08:16Z
 loc:
   Json:
     code: 1810003

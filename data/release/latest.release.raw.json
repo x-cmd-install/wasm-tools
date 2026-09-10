@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4304680,
       "digest": "sha256:32f90b70a645a239171bc9e2f84e6605b5a83723e042c2da477cc83d17263502",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-10T17:55:41Z",
       "updated_at": "2026-09-10T17:55:42Z",
       "browser_download_url": "https://github.com/bytecodealliance/wasm-tools/releases/download/v1.259.0/wasm-tools-1.259.0-aarch64-windows.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5853150,
       "digest": "sha256:3e9b374b4c7715b771b69bf0d65a337990ed4546ec5e97e01c0ff587dfc52160",
-      "download_count": 212,
+      "download_count": 228,
       "created_at": "2026-09-10T17:55:42Z",
       "updated_at": "2026-09-10T17:55:43Z",
       "browser_download_url": "https://github.com/bytecodealliance/wasm-tools/releases/download/v1.259.0/wasm-tools-1.259.0-x86_64-linux.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4625989,
       "digest": "sha256:3c669d3706a5db7611a11afc422124df53a2c67294575e21f28c9b3deb95fa08",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-10T17:55:42Z",
       "updated_at": "2026-09-10T17:55:43Z",
       "browser_download_url": "https://github.com/bytecodealliance/wasm-tools/releases/download/v1.259.0/wasm-tools-1.259.0-x86_64-windows.zip"
