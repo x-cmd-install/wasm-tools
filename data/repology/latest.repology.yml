@@ -1,38 +1,36 @@
-- repo: kali_rolling
-  subrepo: main
-  srcname: wasm-tools
-  binnames:
-    - librust-wasm-tools-dev
-    - wasm-tools
-  visiblename: wasm-tools
-  version: 1.239.0
-  origversion: 1.239.0+ds-10
-  status: outdated
-  maintainers:
-    - dr@jones.dk
-  categories:
-    - rust
-- repo: raspbian_testing
-  subrepo: main
-  srcname: wasm-tools
-  binnames:
-    - librust-wasm-tools-dev
-    - wasm-tools
-  visiblename: wasm-tools
-  version: 1.239.0
-  origversion: 1.239.0+ds-10
-  status: outdated
-  maintainers:
-    - dr@jones.dk
-  categories:
-    - rust
-- repo: homebrew
+- repo: nix_stable_24_11
   srcname: wasm-tools
   visiblename: wasm-tools
-  version: 1.258.0
+  version: 1.222.1
   origversion: null
   status: outdated
   summary: Low level tooling for WebAssembly in Rust
+  maintainers:
+    - ereslibre@ereslibre.es
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: wasm-tools
+  visiblename: wasm-tools
+  version: 1.229.0
+  origversion: null
+  status: outdated
+  summary: Low level tooling for WebAssembly in Rust
+  maintainers:
+    - ereslibre@ereslibre.es
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: wasm-tools
+  visiblename: wasm-tools
+  version: 1.239.0
+  origversion: null
+  status: outdated
+  summary: Low level tooling for WebAssembly in Rust
+  maintainers:
+    - ereslibre@ereslibre.es
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_22
   subrepo: community
   srcname: wasm-tools
@@ -98,13 +96,6 @@
     - yyp@disroot.org
   licenses:
     - LICENSE-MIT
-- repo: homebrew
-  srcname: wasm-tools
-  visiblename: wasm-tools
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Low level tooling for WebAssembly in Rust
 - repo: alpine_3_24
   subrepo: community
   srcname: wasm-tools
@@ -263,6 +254,34 @@
     - dr@jones.dk
   categories:
     - rust
+- repo: homebrew
+  srcname: wasm-tools
+  visiblename: wasm-tools
+  version: 1.259.0
+  origversion: null
+  status: newest
+  summary: Low level tooling for WebAssembly in Rust
+- repo: homebrew
+  srcname: wasm-tools
+  visiblename: wasm-tools
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Low level tooling for WebAssembly in Rust
+- repo: kali_rolling
+  subrepo: main
+  srcname: wasm-tools
+  binnames:
+    - librust-wasm-tools-dev
+    - wasm-tools
+  visiblename: wasm-tools
+  version: 1.239.0
+  origversion: 1.239.0+ds-10
+  status: outdated
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - rust
 - repo: macports
   srcname: devel/wasm-tools
   binname: wasm-tools
@@ -315,9 +334,9 @@
   srcname: mingw-w64-wasm-tools
   binname: mingw-w64-clang-x86_64-wasm-tools
   visiblename: mingw-w64-clang-x86_64-wasm-tools
-  version: 1.258.0
-  origversion: 1.258.0-1
-  status: outdated
+  version: 1.259.0
+  origversion: 1.259.0-1
+  status: newest
   summary: Low level tooling for WebAssembly in Rust (mingw-w64)
   licenses:
     - spdx:Apache-2.0 WITH LLVM-exception AND Apache-2.0 AND MIT
@@ -325,9 +344,9 @@
   srcname: mingw-w64-wasm-tools
   binname: mingw-w64-clang-aarch64-wasm-tools
   visiblename: mingw-w64-clang-aarch64-wasm-tools
-  version: 1.258.0
-  origversion: 1.258.0-1
-  status: outdated
+  version: 1.259.0
+  origversion: 1.259.0-1
+  status: newest
   summary: Low level tooling for WebAssembly in Rust (mingw-w64)
   licenses:
     - spdx:Apache-2.0 WITH LLVM-exception AND Apache-2.0 AND MIT
@@ -335,9 +354,9 @@
   srcname: mingw-w64-wasm-tools
   binname: mingw-w64-ucrt-x86_64-wasm-tools
   visiblename: mingw-w64-ucrt-x86_64-wasm-tools
-  version: 1.258.0
-  origversion: 1.258.0-1
-  status: outdated
+  version: 1.259.0
+  origversion: 1.259.0-1
+  status: newest
   summary: Low level tooling for WebAssembly in Rust (mingw-w64)
   licenses:
     - spdx:Apache-2.0 WITH LLVM-exception AND Apache-2.0 AND MIT
@@ -345,39 +364,6 @@
   srcname: wasm-tools
   visiblename: wasm-tools
   version: 1.215.0
-  origversion: null
-  status: outdated
-  summary: Low level tooling for WebAssembly in Rust
-  maintainers:
-    - ereslibre@ereslibre.es
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: wasm-tools
-  visiblename: wasm-tools
-  version: 1.222.1
-  origversion: null
-  status: outdated
-  summary: Low level tooling for WebAssembly in Rust
-  maintainers:
-    - ereslibre@ereslibre.es
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: wasm-tools
-  visiblename: wasm-tools
-  version: 1.229.0
-  origversion: null
-  status: outdated
-  summary: Low level tooling for WebAssembly in Rust
-  maintainers:
-    - ereslibre@ereslibre.es
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: wasm-tools
-  visiblename: wasm-tools
-  version: 1.239.0
   origversion: null
   status: outdated
   summary: Low level tooling for WebAssembly in Rust
@@ -418,6 +404,20 @@
   summary: Low level tooling for WebAssembly in Rust
   licenses:
     - Apache-2.0
+- repo: raspbian_testing
+  subrepo: main
+  srcname: wasm-tools
+  binnames:
+    - librust-wasm-tools-dev
+    - wasm-tools
+  visiblename: wasm-tools
+  version: 1.239.0
+  origversion: 1.239.0+ds-10
+  status: outdated
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - rust
 - repo: ubuntu_26_10_proposed
   subrepo: stonking-proposed/universe
   srcname: wasm-tools

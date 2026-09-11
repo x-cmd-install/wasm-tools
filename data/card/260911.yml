@@ -2,15 +2,15 @@ about:
   description: " CLI and Rust libraries for low-level manipulation of WebAssembly modules "
   license: Apache-2.0
   homepage: 
-  head: 7fc33f2
+  head: 2e3ae42
   archived: false
   latestVersion: "v1.259.0"
   latestRelease: "v1.259.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:56:10Z
+  collectedAt: 2026-09-11T20:01:07Z
 timeline:
   created: 2020-05-19
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-10
   lastRelease: 2026-09-10
   lastPrerelease: 
@@ -19,12 +19,12 @@ popularity:
   watcher: 24
   fork: 350
   release: 121
-  contributor: 192
-  pullRequest: 2162
+  contributor: 194
+  pullRequest: 2166
   issue: 471
 language:
-  Rust: 6943391
-  WebAssembly: 2415711
+  Rust: 6948764
+  WebAssembly: 2432473
   C: 21206
   TypeScript: 7553
   HTML: 4527
@@ -33,66 +33,66 @@ language:
   CMake: 1549
   CSS: 407
   RenderScript: 1
-totalBytes: 9399319
+totalBytes: 9421454
 recent:
   last30d:
     since: 2026-08-12
     release: 4
-    mergedPR: 37
-    openPR: 7
+    mergedPR: 40
+    openPR: 8
     closedIssue: 2
     openIssue: 1
-    commit: 36
+    commit: 39
   last60d:
     since: 2026-07-13
     release: 7
-    mergedPR: 67
-    openPR: 8
+    mergedPR: 70
+    openPR: 9
     closedIssue: 4
     openIssue: 3
-    commit: 67
+    commit: 70
   last90d:
     since: 2026-06-13
     release: 8
-    mergedPR: 85
-    openPR: 8
+    mergedPR: 88
+    openPR: 9
     closedIssue: 7
     openIssue: 5
-    commit: 86
+    commit: 89
   last180d:
     since: 2026-03-15
     release: 17
-    mergedPR: 146
-    openPR: 9
+    mergedPR: 149
+    openPR: 10
     closedIssue: 14
     openIssue: 7
-    commit: 151
+    commit: 154
   last360d:
     since: 2025-09-16
     release: 25
-    mergedPR: 263
-    openPR: 10
+    mergedPR: 266
+    openPR: 11
     closedIssue: 40
     openIssue: 15
-    commit: 265
+    commit: 268
   last720d:
     since: 2024-09-21
     release: 62
-    mergedPR: 647
-    openPR: 14
+    mergedPR: 650
+    openPR: 15
     closedIssue: 99
     openIssue: 34
-    commit: 615
+    commit: 618
 total:
   release: 121
-  mergedPR: 2029
-  openPR: 21
+  mergedPR: 2032
+  openPR: 22
   closedIssue: 363
   openIssue: 108
-  commit: 3332
+  commit: 3335
 ---
 path: /home/runner/.x-repo/github.com/bytecodealliance/wasm-tools
-collectedAt: 2026-09-11T04:56:16Z
+collectedAt: 2026-09-11T20:01:18Z
 loc:
   Json:
     code: 1810003
@@ -100,10 +100,10 @@ loc:
     blanks: 0
     files: 747
   Rust:
-    code: 153963
-    comments: 7521
-    blanks: 16868
-    files: 434
+    code: 154109
+    comments: 7525
+    blanks: 16890
+    files: 435
   WebAssembly:
     code: 57524
     comments: 4415
@@ -175,10 +175,10 @@ loc:
     blanks: 10
     files: 46
 total:
-  code: 2024137
-  comments: 31061
-  blanks: 25559
-  files: 2629
+  code: 2024283
+  comments: 31068
+  blanks: 25581
+  files: 2630
 ---
 date: "2026-09-07"
 repo:
