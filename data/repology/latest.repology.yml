@@ -1,16 +1,38 @@
-- repo: alpine_3_24
-  subrepo: community
+- repo: kali_rolling
+  subrepo: main
   srcname: wasm-tools
-  binname: wasm-tools
+  binnames:
+    - librust-wasm-tools-dev
+    - wasm-tools
   visiblename: wasm-tools
-  version: 1.236.0
-  origversion: 1.236.0-r0
+  version: 1.239.0
+  origversion: 1.239.0+ds-10
   status: outdated
-  summary: CLI for low-level manipulation of WebAssembly modules
   maintainers:
-    - yyp@disroot.org
-  licenses:
-    - LICENSE-MIT
+    - dr@jones.dk
+  categories:
+    - rust
+- repo: raspbian_testing
+  subrepo: main
+  srcname: wasm-tools
+  binnames:
+    - librust-wasm-tools-dev
+    - wasm-tools
+  visiblename: wasm-tools
+  version: 1.239.0
+  origversion: 1.239.0+ds-10
+  status: outdated
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - rust
+- repo: homebrew
+  srcname: wasm-tools
+  visiblename: wasm-tools
+  version: 1.258.0
+  origversion: null
+  status: outdated
+  summary: Low level tooling for WebAssembly in Rust
 - repo: alpine_3_22
   subrepo: community
   srcname: wasm-tools
@@ -66,6 +88,26 @@
 - repo: alpine_3_24
   subrepo: community
   srcname: wasm-tools
+  binname: wasm-tools
+  visiblename: wasm-tools
+  version: 1.236.0
+  origversion: 1.236.0-r0
+  status: outdated
+  summary: CLI for low-level manipulation of WebAssembly modules
+  maintainers:
+    - yyp@disroot.org
+  licenses:
+    - LICENSE-MIT
+- repo: homebrew
+  srcname: wasm-tools
+  visiblename: wasm-tools
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Low level tooling for WebAssembly in Rust
+- repo: alpine_3_24
+  subrepo: community
+  srcname: wasm-tools
   binname: wasm-tools-doc
   visiblename: wasm-tools-doc
   version: 1.236.0
@@ -83,7 +125,7 @@
   visiblename: wasm-tools
   version: 1.258.0
   origversion: 1.258.0-r0
-  status: newest
+  status: outdated
   summary: CLI for low-level manipulation of WebAssembly modules
   maintainers:
     - yyp@disroot.org
@@ -96,7 +138,7 @@
   visiblename: wasm-tools-doc
   version: 1.258.0
   origversion: 1.258.0-r0
-  status: newest
+  status: outdated
   summary: CLI for low-level manipulation of WebAssembly modules (documentation)
   maintainers:
     - yyp@disroot.org
@@ -109,7 +151,7 @@
   visiblename: wasm-tools
   version: 1.258.0
   origversion: 1.258.0-1
-  status: newest
+  status: outdated
   summary: Low level tooling for WebAssembly in Rust
   licenses:
     - Apache-2.0
@@ -153,7 +195,7 @@
   visiblename: wasm-tools
   version: 1.258.0
   origversion: 1.258.0-1
-  status: newest
+  status: outdated
   summary: Low level tooling for WebAssembly in Rust
   licenses:
     - Apache-2.0
@@ -221,39 +263,11 @@
     - dr@jones.dk
   categories:
     - rust
-- repo: homebrew
-  srcname: wasm-tools
-  visiblename: wasm-tools
-  version: 1.258.0
-  origversion: null
-  status: newest
-  summary: Low level tooling for WebAssembly in Rust
-- repo: homebrew
-  srcname: wasm-tools
-  visiblename: wasm-tools
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Low level tooling for WebAssembly in Rust
-- repo: kali_rolling
-  subrepo: main
-  srcname: wasm-tools
-  binnames:
-    - librust-wasm-tools-dev
-    - wasm-tools
-  visiblename: wasm-tools
-  version: 1.239.0
-  origversion: 1.239.0+ds-10
-  status: outdated
-  maintainers:
-    - dr@jones.dk
-  categories:
-    - rust
 - repo: macports
   srcname: devel/wasm-tools
   binname: wasm-tools
   visiblename: wasm-tools
-  version: 1.258.0
+  version: 1.259.0
   origversion: null
   status: newest
   summary: CLI and Rust libraries for low-level manipulation of WebAssembly modules
@@ -271,7 +285,7 @@
   visiblename: wasm-tools
   version: 1.258.0
   origversion: 1.258.0-1
-  status: newest
+  status: outdated
   summary: Low level tooling for WebAssembly in Rust
   licenses:
     - Apache-2.0
@@ -282,7 +296,7 @@
   visiblename: wasm-tools
   version: 1.258.0
   origversion: 1.258.0-1
-  status: newest
+  status: outdated
   summary: Low level tooling for WebAssembly in Rust
   licenses:
     - Apache-2.0
@@ -293,7 +307,7 @@
   visiblename: wasm-tools
   version: 1.258.0
   origversion: 1.258.0-1
-  status: newest
+  status: outdated
   summary: Low level tooling for WebAssembly in Rust
   licenses:
     - Apache-2.0
@@ -303,7 +317,7 @@
   visiblename: mingw-w64-clang-x86_64-wasm-tools
   version: 1.258.0
   origversion: 1.258.0-1
-  status: newest
+  status: outdated
   summary: Low level tooling for WebAssembly in Rust (mingw-w64)
   licenses:
     - spdx:Apache-2.0 WITH LLVM-exception AND Apache-2.0 AND MIT
@@ -313,7 +327,7 @@
   visiblename: mingw-w64-clang-aarch64-wasm-tools
   version: 1.258.0
   origversion: 1.258.0-1
-  status: newest
+  status: outdated
   summary: Low level tooling for WebAssembly in Rust (mingw-w64)
   licenses:
     - spdx:Apache-2.0 WITH LLVM-exception AND Apache-2.0 AND MIT
@@ -323,7 +337,7 @@
   visiblename: mingw-w64-ucrt-x86_64-wasm-tools
   version: 1.258.0
   origversion: 1.258.0-1
-  status: newest
+  status: outdated
   summary: Low level tooling for WebAssembly in Rust (mingw-w64)
   licenses:
     - spdx:Apache-2.0 WITH LLVM-exception AND Apache-2.0 AND MIT
@@ -387,7 +401,7 @@
   visiblename: wasm-tools
   version: 1.258.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Low level tooling for WebAssembly in Rust
   maintainers:
     - ereslibre@ereslibre.es
@@ -400,24 +414,10 @@
   visiblename: wasm-tools
   version: 1.258.0
   origversion: 1.258.0-1
-  status: newest
+  status: outdated
   summary: Low level tooling for WebAssembly in Rust
   licenses:
     - Apache-2.0
-- repo: raspbian_testing
-  subrepo: main
-  srcname: wasm-tools
-  binnames:
-    - librust-wasm-tools-dev
-    - wasm-tools
-  visiblename: wasm-tools
-  version: 1.239.0
-  origversion: 1.239.0+ds-10
-  status: outdated
-  maintainers:
-    - dr@jones.dk
-  categories:
-    - rust
 - repo: ubuntu_26_10_proposed
   subrepo: stonking-proposed/universe
   srcname: wasm-tools
