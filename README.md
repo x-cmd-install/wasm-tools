@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,789 · **Forks**: 351 · **Open issues**: 471 · **Contributors**: 194
+- **Stars**: 1,790 · **Forks**: 351 · **Open issues**: 471 · **Contributors**: 194
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 4 | 35 | 9 | 2 | 1 | 30 |
-| last60d | 2026-07-15 | 7 | 67 | 10 | 4 | 3 | 61 |
-| 90d | 2026-06-15 | 8 | 88 | 10 | 7 | 5 | 88 |
-| last180d | 2026-03-17 | 17 | 149 | 11 | 14 | 7 | 153 |
-| 360d | 2025-09-18 | 25 | 266 | 12 | 39 | 14 | 263 |
-| last720d | 2024-09-23 | 62 | 647 | 16 | 98 | 34 | 618 |
+| 30d | 2026-08-15 | 4 | 35 | 8 | 2 | 1 | 30 |
+| last60d | 2026-07-16 | 7 | 66 | 10 | 3 | 3 | 61 |
+| 90d | 2026-06-16 | 8 | 88 | 10 | 7 | 5 | 88 |
+| last180d | 2026-03-18 | 17 | 149 | 11 | 14 | 7 | 153 |
+| 360d | 2025-09-19 | 25 | 264 | 12 | 38 | 14 | 263 |
+| last720d | 2024-09-24 | 62 | 646 | 16 | 98 | 34 | 616 |
 
 ## Release assets
 
@@ -79,20 +79,6 @@ Lowest-scoring checks:
 | [wasm-tools-1.259.0-x86_64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.259.0/wasm-tools-1.259.0-x86_64-musl.tar.gz) | 5.9 MiB | `native/linux/x64/musl` |
 | [wasm-tools-1.259.0-x86_64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.259.0/wasm-tools-1.259.0-x86_64-windows.zip) | 4.4 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **38** distros on [repology.org](https://repology.org/project/wasm-tools). **5** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.239.0` | ⚠️ outdated |
-| Debian 14 | `1.239.0` | ⚠️ outdated |
-| Arch | `1.258.0` | ⚠️ outdated |
-| Homebrew | `1.259.0` | ✅ latest |
-| Nix unstable | `1.258.0` | ⚠️ outdated |
-| Void | `1.257.0` | ⚠️ outdated |
-| Alpine edge | `1.258.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wasm-tools` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +88,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:05:52Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:25:51Z._
