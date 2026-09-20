@@ -4,7 +4,7 @@
 
  CLI and Rust libraries for low-level manipulation of WebAssembly modules 
 
-![wasm-tools](https://repo.x-cmd.io/wasm-tools.svg)
+[![x-cmd/install — wasm-tools Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wasm-tools.svg)](https://x-cmd.com/install/wasm-tools)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,790 · **Forks**: 352 · **Open issues**: 473 · **Contributors**: 197
+- **Stars**: 1,790 · **Forks**: 353 · **Open issues**: 473 · **Contributors**: 197
 
 ## Totals (cumulative)
 
-- **Releases**: 121 · **Merged PRs**: 2047 · **Open PRs**: 19 · **Closed issues**: 365 · **Open issues**: 108 · **Commits**: 3350
+- **Releases**: 121 · **Merged PRs**: 2047 · **Open PRs**: 20 · **Closed issues**: 365 · **Open issues**: 108 · **Commits**: 3350
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 45 | 3 | 4 | 1 | 45 |
-| last60d | 2026-07-20 | 7 | 75 | 6 | 5 | 2 | 76 |
-| 90d | 2026-06-20 | 8 | 102 | 6 | 9 | 4 | 103 |
-| last180d | 2026-03-22 | 17 | 163 | 7 | 16 | 7 | 168 |
-| 360d | 2025-09-23 | 25 | 275 | 8 | 39 | 14 | 278 |
-| last720d | 2024-09-28 | 62 | 654 | 12 | 97 | 33 | 622 |
+| 30d | 2026-08-21 | 2 | 42 | 3 | 4 | 1 | 33 |
+| last60d | 2026-07-22 | 6 | 75 | 7 | 5 | 2 | 72 |
+| 90d | 2026-06-22 | 8 | 102 | 7 | 9 | 4 | 103 |
+| last180d | 2026-03-24 | 17 | 162 | 8 | 16 | 7 | 167 |
+| 360d | 2025-09-25 | 25 | 275 | 9 | 38 | 14 | 272 |
+| last720d | 2024-09-30 | 62 | 651 | 13 | 97 | 33 | 622 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:06:01Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:17:12Z._

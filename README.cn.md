@@ -4,7 +4,7 @@
 
  CLI and Rust libraries for low-level manipulation of WebAssembly modules 
 
-![wasm-tools](https://repo.x-cmd.io/wasm-tools.svg?lang=zh)
+[![x-cmd/install — wasm-tools Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wasm-tools.svg?lang=zh)](https://x-cmd.com/install/wasm-tools)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install wasm-tools
 
 ## 流行度
 
-- **Star**: 1,790 · **Fork**: 352 · **开放 issue**: 473 · **贡献者**: 197
+- **Star**: 1,790 · **Fork**: 353 · **开放 issue**: 473 · **贡献者**: 197
 
 ## 累计统计
 
-- **发布数**: 121 · **已合并 PR**: 2047 · **开放 PR**: 19 · **已关闭 issue**: 365 · **开放 issue**: 108 · **提交数**: 3350
+- **发布数**: 121 · **已合并 PR**: 2047 · **开放 PR**: 20 · **已关闭 issue**: 365 · **开放 issue**: 108 · **提交数**: 3350
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 45 | 3 | 4 | 1 | 45 |
-| last60d | 2026-07-20 | 7 | 75 | 6 | 5 | 2 | 76 |
-| 90d | 2026-06-20 | 8 | 102 | 6 | 9 | 4 | 103 |
-| last180d | 2026-03-22 | 17 | 163 | 7 | 16 | 7 | 168 |
-| 360d | 2025-09-23 | 25 | 275 | 8 | 39 | 14 | 278 |
-| last720d | 2024-09-28 | 62 | 654 | 12 | 97 | 33 | 622 |
+| 30d | 2026-08-21 | 2 | 42 | 3 | 4 | 1 | 33 |
+| last60d | 2026-07-22 | 6 | 75 | 7 | 5 | 2 | 72 |
+| 90d | 2026-06-22 | 8 | 102 | 7 | 9 | 4 | 103 |
+| last180d | 2026-03-24 | 17 | 162 | 8 | 16 | 7 | 167 |
+| 360d | 2025-09-25 | 25 | 275 | 9 | 38 | 14 | 272 |
+| last720d | 2024-09-30 | 62 | 651 | 13 | 97 | 33 | 622 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ wasm-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:06:03Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:17:13Z._
