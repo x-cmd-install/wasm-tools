@@ -4,7 +4,7 @@
 
  CLI and Rust libraries for low-level manipulation of WebAssembly modules 
 
-[![x-cmd/install — wasm-tools Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wasm-tools.svg)](https://x-cmd.com/install/wasm-tools)
+[![x-cmd/install — wasm-tools Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/wasm-tools.svg)](https://x-cmd.com/install/wasm-tools)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,790 · **Forks**: 354 · **Open issues**: 473 · **Contributors**: 197
+- **Stars**: 1,790 · **Forks**: 355 · **Open issues**: 474 · **Contributors**: 197
 
 ## Totals (cumulative)
 
-- **Releases**: 121 · **Merged PRs**: 2050 · **Open PRs**: 18 · **Closed issues**: 365 · **Open issues**: 108 · **Commits**: 3353
+- **Releases**: 121 · **Merged PRs**: 2050 · **Open PRs**: 17 · **Closed issues**: 365 · **Open issues**: 109 · **Commits**: 3353
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 44 | 2 | 3 | 1 | 36 |
-| last60d | 2026-07-24 | 6 | 77 | 5 | 5 | 2 | 75 |
-| 90d | 2026-06-24 | 8 | 104 | 5 | 9 | 4 | 106 |
-| last180d | 2026-03-26 | 17 | 164 | 6 | 16 | 7 | 170 |
-| 360d | 2025-09-27 | 25 | 278 | 7 | 38 | 14 | 275 |
-| last720d | 2024-10-02 | 61 | 647 | 11 | 95 | 33 | 619 |
+| 30d | 2026-08-24 | 2 | 41 | 1 | 3 | 2 | 36 |
+| last60d | 2026-07-25 | 6 | 77 | 4 | 5 | 3 | 75 |
+| 90d | 2026-06-25 | 8 | 104 | 4 | 8 | 5 | 106 |
+| last180d | 2026-03-27 | 17 | 164 | 5 | 16 | 8 | 170 |
+| 360d | 2025-09-28 | 25 | 278 | 6 | 38 | 15 | 275 |
+| last720d | 2024-10-03 | 61 | 647 | 10 | 95 | 34 | 612 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:11:58Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:16:32Z._
