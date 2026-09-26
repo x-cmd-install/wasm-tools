@@ -14,12 +14,12 @@ x install wasm-tools
 
 ## Code insight
 
-Total: **2,033,096** lines of code across **2560** files in the top 5 languages.
+Total: **2,033,076** lines of code across **2560** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,815,955 | 0 | 0 | 764 |
-| Rust | 156,729 | 7,586 | 17,114 | 436 |
+| Rust | 156,709 | 7,585 | 17,113 | 436 |
 | WebAssembly | 58,275 | 4,511 | 4,658 | 1329 |
 | Toml | 990 | 110 | 174 | 29 |
 | CHeader | 313 | 204 | 56 | 2 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.259.0` (2026-09-10)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-25
 - **Assets in release**: 10
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 121 · **Merged PRs**: 2058 · **Open PRs**: 17 · **Closed issues**: 365 · **Open issues**: 109 · **Commits**: 3359
+- **Releases**: 121 · **Merged PRs**: 2059 · **Open PRs**: 18 · **Closed issues**: 365 · **Open issues**: 109 · **Commits**: 3360
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 42 | 1 | 3 | 2 | 42 |
-| last60d | 2026-07-27 | 6 | 82 | 3 | 5 | 3 | 81 |
-| 90d | 2026-06-27 | 8 | 110 | 4 | 8 | 5 | 113 |
-| last180d | 2026-03-29 | 17 | 172 | 5 | 16 | 8 | 177 |
-| 360d | 2025-09-30 | 25 | 281 | 6 | 38 | 15 | 282 |
-| last720d | 2024-10-05 | 61 | 655 | 10 | 95 | 34 | 618 |
+| 30d | 2026-08-27 | 1 | 41 | 2 | 3 | 2 | 43 |
+| last60d | 2026-07-28 | 6 | 81 | 4 | 5 | 3 | 82 |
+| 90d | 2026-06-28 | 8 | 111 | 5 | 8 | 5 | 114 |
+| last180d | 2026-03-30 | 17 | 173 | 6 | 15 | 8 | 178 |
+| 360d | 2025-10-01 | 25 | 282 | 7 | 38 | 15 | 283 |
+| last720d | 2024-10-06 | 61 | 652 | 11 | 95 | 34 | 619 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:11:57Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:14:05Z._
