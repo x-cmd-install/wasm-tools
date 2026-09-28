@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,792 · **Forks**: 358 · **Open issues**: 474 · **Contributors**: 199
+- **Stars**: 1,793 · **Forks**: 359 · **Open issues**: 474 · **Contributors**: 199
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 41 | 4 | 3 | 2 | 43 |
-| last60d | 2026-07-29 | 6 | 79 | 6 | 4 | 3 | 82 |
-| 90d | 2026-06-29 | 8 | 109 | 7 | 7 | 5 | 114 |
-| last180d | 2026-03-31 | 17 | 166 | 8 | 15 | 8 | 178 |
-| 360d | 2025-10-02 | 25 | 279 | 9 | 36 | 15 | 283 |
-| last720d | 2024-10-07 | 61 | 649 | 13 | 94 | 34 | 619 |
+| 30d | 2026-08-29 | 1 | 41 | 4 | 3 | 2 | 35 |
+| last60d | 2026-07-30 | 6 | 77 | 6 | 4 | 3 | 76 |
+| 90d | 2026-06-30 | 8 | 108 | 7 | 6 | 5 | 104 |
+| last180d | 2026-04-01 | 15 | 166 | 8 | 15 | 8 | 164 |
+| 360d | 2025-10-03 | 25 | 277 | 9 | 36 | 15 | 266 |
+| last720d | 2024-10-08 | 61 | 644 | 13 | 93 | 34 | 612 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:33:51Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:36:04Z._
