@@ -14,13 +14,13 @@ x install wasm-tools
 
 ## 代码洞察
 
-合计: **2,035,699** 行代码（覆盖前 5 种语言、共 **2569** 个文件）。
+合计: **2,036,221** 行代码（覆盖前 5 种语言、共 **2577** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Json | 1,816,705 | 0 | 0 | 769 |
-| Rust | 157,424 | 7,621 | 17,206 | 436 |
-| WebAssembly | 59,433 | 4,553 | 4,725 | 1333 |
+| Json | 1,816,930 | 0 | 0 | 773 |
+| Rust | 157,492 | 7,624 | 17,216 | 436 |
+| WebAssembly | 59,662 | 4,576 | 4,752 | 1337 |
 | Toml | 990 | 110 | 174 | 29 |
 | CHeader | 313 | 204 | 56 | 2 |
 
@@ -41,43 +41,43 @@ x install wasm-tools
 
 ## 发布
 
-- **最新版本**: `v1.260.0` (2026-09-30)
-- **最近提交**: 2026-10-01
+- **最新版本**: `v1.258.3` (2026-10-02)
+- **最近提交**: 2026-10-02
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 1,794 · **Fork**: 360 · **开放 issue**: 475 · **贡献者**: 200
+- **Star**: 1,794 · **Fork**: 360 · **开放 issue**: 475 · **贡献者**: 201
 
 ## 累计统计
 
-- **发布数**: 122 · **已合并 PR**: 2099 · **开放 PR**: 25 · **已关闭 issue**: 367 · **开放 issue**: 108 · **提交数**: 3399
+- **发布数**: 127 · **已合并 PR**: 2116 · **开放 PR**: 21 · **已关闭 issue**: 367 · **开放 issue**: 108 · **提交数**: 3406
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 2 | 73 | 10 | 5 | 1 | 74 |
-| last60d | 2026-08-03 | 6 | 114 | 11 | 6 | 2 | 115 |
-| 90d | 2026-07-04 | 9 | 144 | 12 | 8 | 3 | 143 |
-| last180d | 2026-04-05 | 15 | 202 | 13 | 17 | 6 | 203 |
-| 360d | 2025-10-07 | 26 | 307 | 14 | 37 | 13 | 305 |
-| last720d | 2024-10-12 | 60 | 678 | 18 | 95 | 33 | 640 |
+| 30d | 2026-09-03 | 7 | 90 | 6 | 5 | 1 | 0 |
+| last60d | 2026-08-04 | 11 | 131 | 7 | 6 | 2 | 0 |
+| 90d | 2026-07-05 | 14 | 161 | 8 | 8 | 3 | 0 |
+| last180d | 2026-04-06 | 20 | 219 | 9 | 17 | 6 | 0 |
+| 360d | 2025-10-08 | 31 | 321 | 10 | 37 | 13 | 0 |
+| last720d | 2024-10-13 | 65 | 694 | 14 | 95 | 33 | 647 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [wasm-tools-1.260.0-aarch64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-aarch64-linux.tar.gz) | 5.7 MiB | `native/linux/arm64` |
-| [wasm-tools-1.260.0-aarch64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-aarch64-macos.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
-| [wasm-tools-1.260.0-aarch64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-aarch64-musl.tar.gz) | 5.8 MiB | `native/linux/arm64/musl` |
-| [wasm-tools-1.260.0-aarch64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-aarch64-windows.zip) | 4.2 MiB | `native/win/arm64` |
-| [wasm-tools-1.260.0-riscv64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-riscv64-linux.tar.gz) | 6.1 MiB | `native/linux/riscv64` |
-| [wasm-tools-1.260.0-wasm32-wasip1.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-wasm32-wasip1.tar.gz) | 3.6 MiB | `native/unknown` |
-| [wasm-tools-1.260.0-x86_64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-x86_64-linux.tar.gz) | 5.7 MiB | `native/linux/x64` |
-| [wasm-tools-1.260.0-x86_64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-x86_64-macos.tar.gz) | 5.4 MiB | `native/darwin/x64` |
-| [wasm-tools-1.260.0-x86_64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-x86_64-musl.tar.gz) | 6.0 MiB | `native/linux/x64/musl` |
-| [wasm-tools-1.260.0-x86_64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-x86_64-windows.zip) | 4.5 MiB | `native/win/x64` |
+| [wasm-tools-1.261.0-aarch64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-aarch64-linux.tar.gz) | 5.7 MiB | `native/linux/arm64` |
+| [wasm-tools-1.261.0-aarch64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-aarch64-macos.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [wasm-tools-1.261.0-aarch64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-aarch64-musl.tar.gz) | 5.8 MiB | `native/linux/arm64/musl` |
+| [wasm-tools-1.261.0-aarch64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-aarch64-windows.zip) | 4.2 MiB | `native/win/arm64` |
+| [wasm-tools-1.261.0-riscv64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-riscv64-linux.tar.gz) | 6.1 MiB | `native/linux/riscv64` |
+| [wasm-tools-1.261.0-wasm32-wasip1.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-wasm32-wasip1.tar.gz) | 3.6 MiB | `native/unknown` |
+| [wasm-tools-1.261.0-x86_64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-x86_64-linux.tar.gz) | 5.7 MiB | `native/linux/x64` |
+| [wasm-tools-1.261.0-x86_64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-x86_64-macos.tar.gz) | 5.4 MiB | `native/darwin/x64` |
+| [wasm-tools-1.261.0-x86_64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-x86_64-musl.tar.gz) | 6.0 MiB | `native/linux/x64/musl` |
+| [wasm-tools-1.261.0-x86_64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-x86_64-windows.zip) | 4.5 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -88,4 +88,4 @@ wasm-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T05:49:07Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T05:38:09Z._

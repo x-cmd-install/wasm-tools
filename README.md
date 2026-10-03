@@ -14,13 +14,13 @@ x install wasm-tools
 
 ## Code insight
 
-Total: **2,035,699** lines of code across **2569** files in the top 5 languages.
+Total: **2,036,221** lines of code across **2577** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 1,816,705 | 0 | 0 | 769 |
-| Rust | 157,424 | 7,621 | 17,206 | 436 |
-| WebAssembly | 59,433 | 4,553 | 4,725 | 1333 |
+| Json | 1,816,930 | 0 | 0 | 773 |
+| Rust | 157,492 | 7,624 | 17,216 | 436 |
+| WebAssembly | 59,662 | 4,576 | 4,752 | 1337 |
 | Toml | 990 | 110 | 174 | 29 |
 | CHeader | 313 | 204 | 56 | 2 |
 
@@ -41,43 +41,43 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.260.0` (2026-09-30)
-- **Last commit**: 2026-10-01
+- **Latest**: `v1.258.3` (2026-10-02)
+- **Last commit**: 2026-10-02
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,794 · **Forks**: 360 · **Open issues**: 475 · **Contributors**: 200
+- **Stars**: 1,794 · **Forks**: 360 · **Open issues**: 475 · **Contributors**: 201
 
 ## Totals (cumulative)
 
-- **Releases**: 122 · **Merged PRs**: 2099 · **Open PRs**: 25 · **Closed issues**: 367 · **Open issues**: 108 · **Commits**: 3399
+- **Releases**: 127 · **Merged PRs**: 2116 · **Open PRs**: 21 · **Closed issues**: 367 · **Open issues**: 108 · **Commits**: 3406
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 2 | 73 | 10 | 5 | 1 | 74 |
-| last60d | 2026-08-03 | 6 | 114 | 11 | 6 | 2 | 115 |
-| 90d | 2026-07-04 | 9 | 144 | 12 | 8 | 3 | 143 |
-| last180d | 2026-04-05 | 15 | 202 | 13 | 17 | 6 | 203 |
-| 360d | 2025-10-07 | 26 | 307 | 14 | 37 | 13 | 305 |
-| last720d | 2024-10-12 | 60 | 678 | 18 | 95 | 33 | 640 |
+| 30d | 2026-09-03 | 7 | 90 | 6 | 5 | 1 | 0 |
+| last60d | 2026-08-04 | 11 | 131 | 7 | 6 | 2 | 0 |
+| 90d | 2026-07-05 | 14 | 161 | 8 | 8 | 3 | 0 |
+| last180d | 2026-04-06 | 20 | 219 | 9 | 17 | 6 | 0 |
+| 360d | 2025-10-08 | 31 | 321 | 10 | 37 | 13 | 0 |
+| last720d | 2024-10-13 | 65 | 694 | 14 | 95 | 33 | 647 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [wasm-tools-1.260.0-aarch64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-aarch64-linux.tar.gz) | 5.7 MiB | `native/linux/arm64` |
-| [wasm-tools-1.260.0-aarch64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-aarch64-macos.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
-| [wasm-tools-1.260.0-aarch64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-aarch64-musl.tar.gz) | 5.8 MiB | `native/linux/arm64/musl` |
-| [wasm-tools-1.260.0-aarch64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-aarch64-windows.zip) | 4.2 MiB | `native/win/arm64` |
-| [wasm-tools-1.260.0-riscv64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-riscv64-linux.tar.gz) | 6.1 MiB | `native/linux/riscv64` |
-| [wasm-tools-1.260.0-wasm32-wasip1.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-wasm32-wasip1.tar.gz) | 3.6 MiB | `native/unknown` |
-| [wasm-tools-1.260.0-x86_64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-x86_64-linux.tar.gz) | 5.7 MiB | `native/linux/x64` |
-| [wasm-tools-1.260.0-x86_64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-x86_64-macos.tar.gz) | 5.4 MiB | `native/darwin/x64` |
-| [wasm-tools-1.260.0-x86_64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-x86_64-musl.tar.gz) | 6.0 MiB | `native/linux/x64/musl` |
-| [wasm-tools-1.260.0-x86_64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.260.0/wasm-tools-1.260.0-x86_64-windows.zip) | 4.5 MiB | `native/win/x64` |
+| [wasm-tools-1.261.0-aarch64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-aarch64-linux.tar.gz) | 5.7 MiB | `native/linux/arm64` |
+| [wasm-tools-1.261.0-aarch64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-aarch64-macos.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [wasm-tools-1.261.0-aarch64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-aarch64-musl.tar.gz) | 5.8 MiB | `native/linux/arm64/musl` |
+| [wasm-tools-1.261.0-aarch64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-aarch64-windows.zip) | 4.2 MiB | `native/win/arm64` |
+| [wasm-tools-1.261.0-riscv64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-riscv64-linux.tar.gz) | 6.1 MiB | `native/linux/riscv64` |
+| [wasm-tools-1.261.0-wasm32-wasip1.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-wasm32-wasip1.tar.gz) | 3.6 MiB | `native/unknown` |
+| [wasm-tools-1.261.0-x86_64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-x86_64-linux.tar.gz) | 5.7 MiB | `native/linux/x64` |
+| [wasm-tools-1.261.0-x86_64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-x86_64-macos.tar.gz) | 5.4 MiB | `native/darwin/x64` |
+| [wasm-tools-1.261.0-x86_64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-x86_64-musl.tar.gz) | 6.0 MiB | `native/linux/x64/musl` |
+| [wasm-tools-1.261.0-x86_64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.261.0/wasm-tools-1.261.0-x86_64-windows.zip) | 4.5 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:49:06Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:38:08Z._
