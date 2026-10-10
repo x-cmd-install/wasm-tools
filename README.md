@@ -14,12 +14,12 @@ x install wasm-tools
 
 ## Code insight
 
-Total: **2,036,619** lines of code across **2571** files in the top 5 languages.
+Total: **2,036,606** lines of code across **2571** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 1,817,055 | 0 | 0 | 775 |
-| Rust | 157,498 | 7,644 | 17,204 | 436 |
+| Rust | 157,485 | 7,642 | 17,203 | 436 |
 | WebAssembly | 59,953 | 4,620 | 4,789 | 1329 |
 | Toml | 990 | 110 | 174 | 29 |
 | CHeader | 313 | 204 | 56 | 2 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.258.3` (2026-10-02)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-09
 - **Assets in release**: 10
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 127 · **Merged PRs**: 2134 · **Open PRs**: 18 · **Closed issues**: 367 · **Open issues**: 108 · **Commits**: 3424
+- **Releases**: 127 · **Merged PRs**: 2136 · **Open PRs**: 17 · **Closed issues**: 368 · **Open issues**: 107 · **Commits**: 3426
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 7 | 99 | 3 | 3 | 1 | 92 |
-| last60d | 2026-08-10 | 11 | 147 | 4 | 6 | 1 | 135 |
-| 90d | 2026-07-11 | 13 | 172 | 5 | 8 | 3 | 161 |
-| last180d | 2026-04-12 | 20 | 233 | 6 | 16 | 6 | 225 |
-| 360d | 2025-10-14 | 30 | 337 | 6 | 35 | 12 | 326 |
-| last720d | 2024-10-19 | 65 | 703 | 11 | 95 | 33 | 659 |
+| 30d | 2026-09-10 | 7 | 100 | 2 | 3 | 1 | 94 |
+| last60d | 2026-08-11 | 10 | 146 | 3 | 6 | 1 | 137 |
+| 90d | 2026-07-12 | 13 | 174 | 4 | 8 | 3 | 163 |
+| last180d | 2026-04-13 | 20 | 235 | 5 | 16 | 6 | 227 |
+| 360d | 2025-10-15 | 30 | 336 | 5 | 36 | 11 | 328 |
+| last720d | 2024-10-20 | 65 | 705 | 10 | 96 | 32 | 661 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:19:50Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:01:57Z._
