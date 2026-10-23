@@ -14,12 +14,12 @@ x install wasm-tools
 
 ## 代码洞察
 
-合计: **2,037,713** 行代码（覆盖前 5 种语言、共 **2577** 个文件）。
+合计: **2,038,112** 行代码（覆盖前 5 种语言、共 **2577** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 1,817,825 | 0 | 0 | 777 |
-| Rust | 157,673 | 7,652 | 17,219 | 436 |
+| Rust | 158,072 | 7,669 | 17,242 | 436 |
 | WebAssembly | 60,102 | 4,640 | 4,806 | 1333 |
 | Toml | 990 | 110 | 174 | 29 |
 | CHeader | 313 | 204 | 56 | 2 |
@@ -47,22 +47,22 @@ x install wasm-tools
 
 ## 流行度
 
-- **Star**: 1,804 · **Fork**: 362 · **开放 issue**: 482 · **贡献者**: 202
+- **Star**: 1,804 · **Fork**: 361 · **开放 issue**: 482 · **贡献者**: 202
 
 ## 累计统计
 
-- **发布数**: 128 · **已合并 PR**: 2150 · **开放 PR**: 16 · **已关闭 issue**: 372 · **开放 issue**: 110 · **提交数**: 3440
+- **发布数**: 128 · **已合并 PR**: 2152 · **开放 PR**: 15 · **已关闭 issue**: 373 · **开放 issue**: 109 · **提交数**: 3442
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 7 | 97 | 3 | 3 | 5 | 81 |
-| last60d | 2026-08-23 | 9 | 142 | 3 | 8 | 5 | 128 |
-| 90d | 2026-07-24 | 13 | 175 | 5 | 10 | 6 | 167 |
-| last180d | 2026-04-25 | 20 | 239 | 5 | 16 | 9 | 227 |
-| 360d | 2025-10-27 | 31 | 341 | 5 | 38 | 15 | 332 |
-| last720d | 2024-11-01 | 66 | 706 | 9 | 100 | 34 | 659 |
+| 30d | 2026-09-23 | 7 | 97 | 2 | 4 | 4 | 83 |
+| last60d | 2026-08-24 | 9 | 141 | 2 | 9 | 4 | 130 |
+| 90d | 2026-07-25 | 13 | 177 | 4 | 11 | 5 | 169 |
+| last180d | 2026-04-26 | 20 | 241 | 4 | 17 | 8 | 229 |
+| 360d | 2025-10-28 | 31 | 343 | 4 | 39 | 14 | 334 |
+| last720d | 2024-11-02 | 66 | 706 | 8 | 101 | 33 | 660 |
 
 ## Release 资产
 
@@ -79,6 +79,20 @@ x install wasm-tools
 | [wasm-tools-1.262.0-x86_64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-x86_64-musl.tar.gz) | 6.0 MiB | `native/linux/x64/musl` |
 | [wasm-tools-1.262.0-x86_64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-x86_64-windows.zip) | 4.5 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/wasm-tools) 上共有 **37** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**30** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `1.239.0` | ⚠️ outdated |
+| Debian 14 | `1.239.0` | ⚠️ outdated |
+| Arch | `1.261.0` | ⚠️ outdated |
+| Homebrew | `1.262.0` | ✅ latest |
+| Nix unstable | `1.261.0` | ⚠️ outdated |
+| Void | `1.257.0` | ⚠️ outdated |
+| Alpine edge | `1.258.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 wasm-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `wasm-tools` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -88,4 +102,4 @@ wasm-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:56:53Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:03:40Z._
