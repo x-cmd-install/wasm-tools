@@ -14,14 +14,14 @@ x install wasm-tools
 
 ## Code insight
 
-Total: **2,038,506** lines of code across **2577** files in the top 5 languages.
+Total: **2,047,308** lines of code across **2588** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 1,817,873 | 0 | 0 | 777 |
-| Rust | 158,389 | 7,677 | 17,257 | 436 |
-| WebAssembly | 60,131 | 4,641 | 4,807 | 1333 |
-| Toml | 990 | 110 | 174 | 29 |
+| Json | 1,824,057 | 0 | 0 | 782 |
+| Rust | 158,700 | 7,710 | 17,294 | 437 |
+| WebAssembly | 62,437 | 4,739 | 5,188 | 1338 |
+| Toml | 991 | 110 | 174 | 29 |
 | CHeader | 313 | 204 | 56 | 2 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.262.0` (2026-10-13)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-27
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,805 · **Forks**: 361 · **Open issues**: 485 · **Contributors**: 202
+- **Stars**: 1,809 · **Forks**: 361 · **Open issues**: 485 · **Contributors**: 202
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 2155 · **Open PRs**: 19 · **Closed issues**: 374 · **Open issues**: 111 · **Commits**: 3445
+- **Releases**: 128 · **Merged PRs**: 2159 · **Open PRs**: 17 · **Closed issues**: 374 · **Open issues**: 111 · **Commits**: 3449
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 7 | 93 | 6 | 5 | 6 | 46 |
-| last60d | 2026-08-27 | 8 | 137 | 6 | 10 | 6 | 123 |
-| 90d | 2026-07-28 | 13 | 177 | 7 | 12 | 7 | 162 |
-| last180d | 2026-04-29 | 19 | 239 | 8 | 16 | 10 | 229 |
-| 360d | 2025-10-31 | 31 | 346 | 8 | 40 | 16 | 336 |
-| last720d | 2024-11-05 | 66 | 705 | 12 | 102 | 35 | 659 |
+| 30d | 2026-09-27 | 7 | 97 | 4 | 5 | 6 | 50 |
+| last60d | 2026-08-28 | 8 | 141 | 4 | 10 | 6 | 127 |
+| 90d | 2026-07-29 | 13 | 179 | 5 | 11 | 7 | 166 |
+| last180d | 2026-04-30 | 19 | 242 | 6 | 16 | 10 | 233 |
+| 360d | 2025-11-01 | 31 | 350 | 6 | 40 | 16 | 340 |
+| last720d | 2024-11-06 | 66 | 709 | 10 | 102 | 35 | 661 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:04:09Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:14:40Z._
