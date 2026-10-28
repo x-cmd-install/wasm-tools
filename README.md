@@ -14,13 +14,13 @@ x install wasm-tools
 
 ## Code insight
 
-Total: **2,047,308** lines of code across **2588** files in the top 5 languages.
+Total: **2,047,932** lines of code across **2597** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 1,824,057 | 0 | 0 | 782 |
-| Rust | 158,700 | 7,710 | 17,294 | 437 |
-| WebAssembly | 62,437 | 4,739 | 5,188 | 1338 |
+| Json | 1,824,172 | 0 | 0 | 783 |
+| Rust | 158,908 | 7,725 | 17,310 | 437 |
+| WebAssembly | 62,738 | 4,762 | 5,209 | 1346 |
 | Toml | 991 | 110 | 174 | 29 |
 | CHeader | 313 | 204 | 56 | 2 |
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.262.0` (2026-10-13)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-10-28
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,809 · **Forks**: 361 · **Open issues**: 485 · **Contributors**: 202
+- **Stars**: 1,810 · **Forks**: 361 · **Open issues**: 485 · **Contributors**: 202
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 2159 · **Open PRs**: 17 · **Closed issues**: 374 · **Open issues**: 111 · **Commits**: 3449
+- **Releases**: 128 · **Merged PRs**: 2161 · **Open PRs**: 15 · **Closed issues**: 377 · **Open issues**: 108 · **Commits**: 3451
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 7 | 97 | 4 | 5 | 6 | 50 |
-| last60d | 2026-08-28 | 8 | 141 | 4 | 10 | 6 | 127 |
-| 90d | 2026-07-29 | 13 | 179 | 5 | 11 | 7 | 166 |
-| last180d | 2026-04-30 | 19 | 242 | 6 | 16 | 10 | 233 |
-| 360d | 2025-11-01 | 31 | 350 | 6 | 40 | 16 | 340 |
-| last720d | 2024-11-06 | 66 | 709 | 10 | 102 | 35 | 661 |
+| 30d | 2026-09-28 | 7 | 87 | 2 | 8 | 3 | 52 |
+| last60d | 2026-08-29 | 8 | 143 | 2 | 13 | 3 | 129 |
+| 90d | 2026-07-30 | 13 | 179 | 3 | 14 | 4 | 168 |
+| last180d | 2026-05-01 | 19 | 244 | 4 | 19 | 7 | 235 |
+| 360d | 2025-11-02 | 31 | 352 | 4 | 43 | 13 | 342 |
+| last720d | 2024-11-07 | 66 | 711 | 7 | 104 | 32 | 663 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **37** distros on [repology.org](https://repology.org/project/wasm-tools). **5** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
+Reported by **37** distros on [repology.org](https://repology.org/project/wasm-tools). **6** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,7 +89,7 @@ Reported by **37** distros on [repology.org](https://repology.org/project/wasm-t
 | Debian 14 | `1.239.0` | ⚠️ outdated |
 | Arch | `1.261.0` | ⚠️ outdated |
 | Homebrew | `1.262.0` | ✅ latest |
-| Nix unstable | `1.261.0` | ⚠️ outdated |
+| Nix unstable | `1.262.0` | ✅ latest |
 | Void | `1.257.0` | ⚠️ outdated |
 | Alpine edge | `1.258.0` | ⚠️ outdated |
 
@@ -102,4 +102,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:14:40Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:54:42Z._
