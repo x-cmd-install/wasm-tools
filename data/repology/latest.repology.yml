@@ -381,9 +381,9 @@
 - repo: nix_unstable
   srcname: wasm-tools
   visiblename: wasm-tools
-  version: 1.261.0
+  version: 1.262.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Low level tooling for WebAssembly in Rust
   maintainers:
     - ereslibre@ereslibre.es
