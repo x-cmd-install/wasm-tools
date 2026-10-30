@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.262.0` (2026-10-13)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,810 · **Forks**: 362 · **Open issues**: 485 · **Contributors**: 202
+- **Stars**: 1,810 · **Forks**: 363 · **Open issues**: 485 · **Contributors**: 202
 
 ## Totals (cumulative)
 
-- **Releases**: 128 · **Merged PRs**: 2161 · **Open PRs**: 15 · **Closed issues**: 377 · **Open issues**: 108 · **Commits**: 3451
+- **Releases**: 128 · **Merged PRs**: 2162 · **Open PRs**: 15 · **Closed issues**: 377 · **Open issues**: 108 · **Commits**: 3452
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 7 | 83 | 2 | 8 | 3 | 52 |
-| last60d | 2026-08-30 | 8 | 143 | 2 | 13 | 3 | 129 |
-| 90d | 2026-07-31 | 12 | 176 | 3 | 14 | 4 | 168 |
-| last180d | 2026-05-02 | 19 | 244 | 4 | 19 | 7 | 235 |
-| 360d | 2025-11-03 | 31 | 351 | 4 | 43 | 13 | 342 |
-| last720d | 2024-11-08 | 66 | 711 | 7 | 104 | 32 | 663 |
+| 30d | 2026-09-30 | 7 | 69 | 2 | 8 | 3 | 53 |
+| last60d | 2026-08-31 | 8 | 141 | 2 | 13 | 3 | 130 |
+| 90d | 2026-08-01 | 12 | 177 | 3 | 14 | 4 | 169 |
+| last180d | 2026-05-03 | 19 | 245 | 4 | 19 | 7 | 236 |
+| 360d | 2025-11-04 | 31 | 351 | 4 | 43 | 13 | 343 |
+| last720d | 2024-11-09 | 66 | 712 | 7 | 103 | 32 | 664 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:09:34Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:58:15Z._
