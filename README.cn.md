@@ -14,12 +14,12 @@ x install wasm-tools
 
 ## 代码洞察
 
-合计: **2,047,932** 行代码（覆盖前 5 种语言、共 **2597** 个文件）。
+合计: **2,048,038** 行代码（覆盖前 5 种语言、共 **2597** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 1,824,172 | 0 | 0 | 783 |
-| Rust | 158,908 | 7,725 | 17,310 | 437 |
+| Rust | 159,014 | 7,727 | 17,318 | 437 |
 | WebAssembly | 62,738 | 4,762 | 5,209 | 1346 |
 | Toml | 991 | 110 | 174 | 29 |
 | CHeader | 313 | 204 | 56 | 2 |
@@ -41,55 +41,55 @@ x install wasm-tools
 
 ## 发布
 
-- **最新版本**: `v1.262.0` (2026-10-13)
-- **最近提交**: 2026-10-29
+- **最新版本**: `v1.263.0` (2026-10-30)
+- **最近提交**: 2026-10-30
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 1,810 · **Fork**: 363 · **开放 issue**: 485 · **贡献者**: 202
+- **Star**: 1,812 · **Fork**: 364 · **开放 issue**: 485 · **贡献者**: 203
 
 ## 累计统计
 
-- **发布数**: 128 · **已合并 PR**: 2162 · **开放 PR**: 15 · **已关闭 issue**: 377 · **开放 issue**: 108 · **提交数**: 3452
+- **发布数**: 129 · **已合并 PR**: 2164 · **开放 PR**: 16 · **已关闭 issue**: 377 · **开放 issue**: 108 · **提交数**: 3454
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 7 | 69 | 2 | 8 | 3 | 53 |
-| last60d | 2026-08-31 | 8 | 141 | 2 | 13 | 3 | 130 |
-| 90d | 2026-08-01 | 12 | 177 | 3 | 14 | 4 | 169 |
-| last180d | 2026-05-03 | 19 | 245 | 4 | 19 | 7 | 236 |
-| 360d | 2025-11-04 | 31 | 351 | 4 | 43 | 13 | 343 |
-| last720d | 2024-11-09 | 66 | 712 | 7 | 103 | 32 | 664 |
+| 30d | 2026-10-01 | 7 | 59 | 3 | 8 | 2 | 55 |
+| last60d | 2026-09-01 | 9 | 140 | 3 | 13 | 3 | 132 |
+| 90d | 2026-08-02 | 13 | 179 | 4 | 14 | 4 | 171 |
+| last180d | 2026-05-04 | 20 | 245 | 5 | 19 | 7 | 238 |
+| 360d | 2025-11-05 | 32 | 353 | 5 | 43 | 13 | 345 |
+| last720d | 2024-11-10 | 67 | 712 | 8 | 103 | 32 | 666 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [wasm-tools-1.262.0-aarch64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-aarch64-linux.tar.gz) | 5.7 MiB | `native/linux/arm64` |
-| [wasm-tools-1.262.0-aarch64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-aarch64-macos.tar.gz) | 5.0 MiB | `native/darwin/arm64` |
-| [wasm-tools-1.262.0-aarch64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-aarch64-musl.tar.gz) | 5.8 MiB | `native/linux/arm64/musl` |
-| [wasm-tools-1.262.0-aarch64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-aarch64-windows.zip) | 4.2 MiB | `native/win/arm64` |
-| [wasm-tools-1.262.0-riscv64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-riscv64-linux.tar.gz) | 6.1 MiB | `native/linux/riscv64` |
-| [wasm-tools-1.262.0-wasm32-wasip1.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-wasm32-wasip1.tar.gz) | 3.6 MiB | `native/unknown` |
-| [wasm-tools-1.262.0-x86_64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-x86_64-linux.tar.gz) | 5.7 MiB | `native/linux/x64` |
-| [wasm-tools-1.262.0-x86_64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-x86_64-macos.tar.gz) | 5.4 MiB | `native/darwin/x64` |
-| [wasm-tools-1.262.0-x86_64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-x86_64-musl.tar.gz) | 6.0 MiB | `native/linux/x64/musl` |
-| [wasm-tools-1.262.0-x86_64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.262.0/wasm-tools-1.262.0-x86_64-windows.zip) | 4.5 MiB | `native/win/x64` |
+| [wasm-tools-1.263.0-aarch64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-aarch64-linux.tar.gz) | 5.8 MiB | `native/linux/arm64` |
+| [wasm-tools-1.263.0-aarch64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-aarch64-macos.tar.gz) | 5.0 MiB | `native/darwin/arm64` |
+| [wasm-tools-1.263.0-aarch64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-aarch64-musl.tar.gz) | 5.8 MiB | `native/linux/arm64/musl` |
+| [wasm-tools-1.263.0-aarch64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-aarch64-windows.zip) | 4.2 MiB | `native/win/arm64` |
+| [wasm-tools-1.263.0-riscv64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-riscv64-linux.tar.gz) | 6.1 MiB | `native/linux/riscv64` |
+| [wasm-tools-1.263.0-wasm32-wasip1.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-wasm32-wasip1.tar.gz) | 3.6 MiB | `native/unknown` |
+| [wasm-tools-1.263.0-x86_64-linux.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-x86_64-linux.tar.gz) | 5.7 MiB | `native/linux/x64` |
+| [wasm-tools-1.263.0-x86_64-macos.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-x86_64-macos.tar.gz) | 5.4 MiB | `native/darwin/x64` |
+| [wasm-tools-1.263.0-x86_64-musl.tar.gz](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-x86_64-musl.tar.gz) | 6.1 MiB | `native/linux/x64/musl` |
+| [wasm-tools-1.263.0-x86_64-windows.zip](https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-x86_64-windows.zip) | 4.5 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/wasm-tools) 上共有 **37** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**29** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/wasm-tools) 上共有 **38** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**35** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Debian unstable | `1.239.0` | ⚠️ outdated |
 | Debian 14 | `1.239.0` | ⚠️ outdated |
 | Arch | `1.261.0` | ⚠️ outdated |
-| Homebrew | `1.262.0` | ✅ latest |
-| Nix unstable | `1.262.0` | ✅ latest |
+| Homebrew | `1.263.0` | ✅ latest |
+| Nix unstable | `1.262.0` | ⚠️ outdated |
 | Void | `1.257.0` | ⚠️ outdated |
 | Alpine edge | `1.258.0` | ⚠️ outdated |
 
@@ -102,4 +102,4 @@ wasm-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T05:58:15Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T05:52:06Z._
