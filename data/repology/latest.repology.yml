@@ -1,25 +1,17 @@
-- repo: manjaro_stable
-  subrepo: extra
+- repo: debian_unstable
+  subrepo: sid/main
   srcname: wasm-tools
-  binname: wasm-tools
+  binnames:
+    - librust-wasm-tools-dev
+    - wasm-tools
   visiblename: wasm-tools
-  version: 1.258.0
-  origversion: 1.258.0-1
+  version: 1.239.0
+  origversion: 1.239.0+ds-10
   status: outdated
-  summary: Low level tooling for WebAssembly in Rust
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: wasm-tools
-  binname: wasm-tools
-  visiblename: wasm-tools
-  version: 1.258.0
-  origversion: 1.258.0-1
-  status: outdated
-  summary: Low level tooling for WebAssembly in Rust
-  licenses:
-    - Apache-2.0
+  maintainers:
+    - dr@jones.dk
+  categories:
+    - rust
 - repo: alpine_3_22
   subrepo: community
   srcname: wasm-tools
@@ -140,17 +132,6 @@
     - Apache-2.0 and Apache-2.0 with LLVM-exception and MIT
   categories:
     - Development/Other
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: wasm-tools
-  binname: wasm-tools
-  visiblename: wasm-tools
-  version: 1.261.0
-  origversion: 1.261.0-1
-  status: outdated
-  summary: Low level tooling for WebAssembly in Rust
-  licenses:
-    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: wasm-tools
@@ -210,20 +191,6 @@
     - Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
 - repo: debian_14
   subrepo: forky/main
-  srcname: wasm-tools
-  binnames:
-    - librust-wasm-tools-dev
-    - wasm-tools
-  visiblename: wasm-tools
-  version: 1.239.0
-  origversion: 1.239.0+ds-10
-  status: outdated
-  maintainers:
-    - dr@jones.dk
-  categories:
-    - rust
-- repo: debian_unstable
-  subrepo: sid/main
   srcname: wasm-tools
   binnames:
     - librust-wasm-tools-dev
@@ -307,6 +274,17 @@
     - MIT
   categories:
     - devel
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: wasm-tools
+  binname: wasm-tools
+  visiblename: wasm-tools
+  version: 1.261.0
+  origversion: 1.261.0-1
+  status: outdated
+  summary: Low level tooling for WebAssembly in Rust
+  licenses:
+    - Apache-2.0
 - repo: msys2_clang64
   srcname: mingw-w64-wasm-tools
   binname: mingw-w64-clang-x86_64-wasm-tools
