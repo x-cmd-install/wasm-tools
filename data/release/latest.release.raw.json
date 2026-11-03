@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6055053,
       "digest": "sha256:773b5e6bf957f0d93a9a337c9c5fc4c35509706301a80799f57a76fa367fd1ca",
-      "download_count": 192,
+      "download_count": 367,
       "created_at": "2026-10-30T20:30:29Z",
       "updated_at": "2026-10-30T20:30:30Z",
       "browser_download_url": "https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-aarch64-linux.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5227062,
       "digest": "sha256:b568f04746a699c4068b8d751779b60b501cf2cab6d259a3bc973eb5eeb1f62b",
-      "download_count": 239,
+      "download_count": 405,
       "created_at": "2026-10-30T20:30:29Z",
       "updated_at": "2026-10-30T20:30:30Z",
       "browser_download_url": "https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-aarch64-macos.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5976062,
       "digest": "sha256:21c036c1740a0552124c79c6e2170cb61c5b016005671a6d5bc06cf642165431",
-      "download_count": 3065,
+      "download_count": 6212,
       "created_at": "2026-10-30T20:30:30Z",
       "updated_at": "2026-10-30T20:30:31Z",
       "browser_download_url": "https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-x86_64-linux.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5657377,
       "digest": "sha256:909061aba8c069aeed8cb0933e50973a9c8e869bbd6a7819176b49871a338424",
-      "download_count": 82,
+      "download_count": 115,
       "created_at": "2026-10-30T20:30:30Z",
       "updated_at": "2026-10-30T20:30:31Z",
       "browser_download_url": "https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-x86_64-macos.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 6357446,
       "digest": "sha256:b9bf473d8c676f7590b98a12d81b43ad88b2eec5233795a861874c606fce1f81",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-10-30T20:30:30Z",
       "updated_at": "2026-10-30T20:30:31Z",
       "browser_download_url": "https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-x86_64-musl.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4715259,
       "digest": "sha256:0803df158b4dbea6b029d11f4206c414f432f0447af91542817061e4f0bd912e",
-      "download_count": 376,
+      "download_count": 672,
       "created_at": "2026-10-30T20:30:30Z",
       "updated_at": "2026-10-30T20:30:31Z",
       "browser_download_url": "https://github.com/bytecodealliance/wasm-tools/releases/download/v1.263.0/wasm-tools-1.263.0-x86_64-windows.zip"
