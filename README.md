@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,813 · **Forks**: 364 · **Open issues**: 486 · **Contributors**: 203
+- **Stars**: 1,813 · **Forks**: 365 · **Open issues**: 486 · **Contributors**: 203
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 36 | 3 | 8 | 3 | 36 |
-| last60d | 2026-09-07 | 9 | 143 | 3 | 11 | 4 | 133 |
-| 90d | 2026-08-08 | 13 | 185 | 4 | 14 | 5 | 176 |
-| last180d | 2026-05-10 | 20 | 248 | 5 | 19 | 8 | 240 |
-| 360d | 2025-11-11 | 32 | 357 | 5 | 44 | 12 | 348 |
-| last720d | 2024-11-16 | 66 | 710 | 8 | 104 | 32 | 665 |
+| 30d | 2026-10-08 | 2 | 35 | 3 | 8 | 3 | 36 |
+| last60d | 2026-09-08 | 9 | 139 | 3 | 11 | 4 | 133 |
+| 90d | 2026-08-09 | 13 | 185 | 4 | 14 | 5 | 176 |
+| last180d | 2026-05-11 | 20 | 248 | 5 | 19 | 8 | 240 |
+| 360d | 2025-11-12 | 32 | 356 | 5 | 43 | 11 | 348 |
+| last720d | 2024-11-17 | 66 | 710 | 8 | 104 | 32 | 664 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/wasm-tools). **5** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/wasm-tools). **5** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -102,4 +102,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:59:37Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:10:38Z._
