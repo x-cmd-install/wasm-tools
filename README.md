@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,813 · **Forks**: 365 · **Open issues**: 486 · **Contributors**: 203
+- **Stars**: 1,814 · **Forks**: 364 · **Open issues**: 486 · **Contributors**: 203
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 35 | 3 | 8 | 3 | 36 |
-| last60d | 2026-09-08 | 9 | 139 | 3 | 11 | 4 | 133 |
-| 90d | 2026-08-09 | 13 | 185 | 4 | 14 | 5 | 176 |
-| last180d | 2026-05-11 | 20 | 248 | 5 | 19 | 8 | 240 |
-| 360d | 2025-11-12 | 32 | 356 | 5 | 43 | 11 | 348 |
-| last720d | 2024-11-17 | 66 | 710 | 8 | 104 | 32 | 664 |
+| 30d | 2026-10-09 | 2 | 32 | 3 | 8 | 3 | 36 |
+| last60d | 2026-09-09 | 9 | 135 | 3 | 11 | 4 | 133 |
+| 90d | 2026-08-10 | 13 | 183 | 4 | 14 | 4 | 176 |
+| last180d | 2026-05-12 | 20 | 246 | 5 | 19 | 8 | 240 |
+| 360d | 2025-11-13 | 32 | 355 | 5 | 43 | 11 | 348 |
+| last720d | 2024-11-18 | 66 | 710 | 8 | 104 | 32 | 664 |
 
 ## Release assets
 
@@ -81,15 +81,15 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/wasm-tools). **5** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
+Reported by **39** distros on [repology.org](https://repology.org/project/wasm-tools). **6** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `1.239.0` | ⚠️ outdated |
 | Debian 14 | `1.239.0` | ⚠️ outdated |
 | Arch | `1.261.0` | ⚠️ outdated |
-| Homebrew | `1.263.0` | ✅ latest |
-| Nix unstable | `1.262.0` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.263.0` | ✅ latest |
 | Void | `1.257.0` | ⚠️ outdated |
 | Alpine edge | `1.261.0` | ⚠️ outdated |
 
@@ -102,4 +102,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:10:38Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:27:26Z._

@@ -47,7 +47,7 @@ x install wasm-tools
 
 ## 流行度
 
-- **Star**: 1,813 · **Fork**: 365 · **开放 issue**: 486 · **贡献者**: 203
+- **Star**: 1,814 · **Fork**: 364 · **开放 issue**: 486 · **贡献者**: 203
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install wasm-tools
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 35 | 3 | 8 | 3 | 36 |
-| last60d | 2026-09-08 | 9 | 139 | 3 | 11 | 4 | 133 |
-| 90d | 2026-08-09 | 13 | 185 | 4 | 14 | 5 | 176 |
-| last180d | 2026-05-11 | 20 | 248 | 5 | 19 | 8 | 240 |
-| 360d | 2025-11-12 | 32 | 356 | 5 | 43 | 11 | 348 |
-| last720d | 2024-11-17 | 66 | 710 | 8 | 104 | 32 | 664 |
+| 30d | 2026-10-09 | 2 | 32 | 3 | 8 | 3 | 36 |
+| last60d | 2026-09-09 | 9 | 135 | 3 | 11 | 4 | 133 |
+| 90d | 2026-08-10 | 13 | 183 | 4 | 14 | 4 | 176 |
+| last180d | 2026-05-12 | 20 | 246 | 5 | 19 | 8 | 240 |
+| 360d | 2025-11-13 | 32 | 355 | 5 | 43 | 11 | 348 |
+| last720d | 2024-11-18 | 66 | 710 | 8 | 104 | 32 | 664 |
 
 ## Release 资产
 
@@ -81,15 +81,15 @@ x install wasm-tools
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/wasm-tools) 上共有 **39** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**32** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/wasm-tools) 上共有 **39** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**31** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Debian unstable | `1.239.0` | ⚠️ outdated |
 | Debian 14 | `1.239.0` | ⚠️ outdated |
 | Arch | `1.261.0` | ⚠️ outdated |
-| Homebrew | `1.263.0` | ✅ latest |
-| Nix unstable | `1.262.0` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.263.0` | ✅ latest |
 | Void | `1.257.0` | ⚠️ outdated |
 | Alpine edge | `1.261.0` | ⚠️ outdated |
 
@@ -102,4 +102,4 @@ wasm-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T06:10:39Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T06:27:27Z._
