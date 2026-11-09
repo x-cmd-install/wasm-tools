@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,814 · **Forks**: 364 · **Open issues**: 486 · **Contributors**: 203
+- **Stars**: 1,814 · **Forks**: 365 · **Open issues**: 486 · **Contributors**: 203
 
 ## Totals (cumulative)
 
-- **Releases**: 129 · **Merged PRs**: 2170 · **Open PRs**: 16 · **Closed issues**: 378 · **Open issues**: 108 · **Commits**: 3460
+- **Releases**: 129 · **Merged PRs**: 2170 · **Open PRs**: 17 · **Closed issues**: 378 · **Open issues**: 108 · **Commits**: 3460
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 32 | 3 | 8 | 3 | 36 |
-| last60d | 2026-09-09 | 9 | 135 | 3 | 11 | 4 | 133 |
-| 90d | 2026-08-10 | 13 | 183 | 4 | 14 | 4 | 176 |
-| last180d | 2026-05-12 | 20 | 246 | 5 | 19 | 8 | 240 |
-| 360d | 2025-11-13 | 32 | 355 | 5 | 43 | 11 | 348 |
-| last720d | 2024-11-18 | 66 | 710 | 8 | 104 | 32 | 664 |
+| 30d | 2026-10-10 | 2 | 32 | 4 | 8 | 3 | 28 |
+| last60d | 2026-09-10 | 9 | 134 | 4 | 11 | 4 | 114 |
+| 90d | 2026-08-11 | 12 | 180 | 5 | 14 | 4 | 162 |
+| last180d | 2026-05-13 | 20 | 246 | 6 | 19 | 8 | 231 |
+| 360d | 2025-11-14 | 32 | 350 | 6 | 43 | 11 | 338 |
+| last720d | 2024-11-19 | 66 | 709 | 9 | 104 | 32 | 663 |
 
 ## Release assets
 
@@ -81,14 +81,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **39** distros on [repology.org](https://repology.org/project/wasm-tools). **6** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
+Reported by **40** distros on [repology.org](https://repology.org/project/wasm-tools). **6** are ✅ on the latest upstream release, **32** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `1.239.0` | ⚠️ outdated |
 | Debian 14 | `1.239.0` | ⚠️ outdated |
 | Arch | `1.261.0` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.263.0` | ✅ latest |
 | Nix unstable | `1.263.0` | ✅ latest |
 | Void | `1.257.0` | ⚠️ outdated |
 | Alpine edge | `1.261.0` | ⚠️ outdated |
@@ -102,4 +102,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:27:26Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T06:44:56Z._
