@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 36 | 5 | 7 | 4 | 26 |
-| last60d | 2026-09-16 | 8 | 127 | 5 | 11 | 5 | 115 |
-| 90d | 2026-08-17 | 12 | 179 | 5 | 16 | 5 | 162 |
-| last180d | 2026-05-19 | 19 | 249 | 7 | 21 | 9 | 235 |
-| 360d | 2025-11-20 | 30 | 356 | 7 | 45 | 12 | 339 |
-| last720d | 2024-11-25 | 66 | 716 | 10 | 106 | 33 | 670 |
+| 30d | 2026-10-17 | 1 | 36 | 5 | 7 | 3 | 26 |
+| last60d | 2026-09-17 | 8 | 126 | 5 | 11 | 5 | 115 |
+| 90d | 2026-08-18 | 12 | 178 | 5 | 16 | 5 | 162 |
+| last180d | 2026-05-20 | 19 | 249 | 7 | 21 | 9 | 235 |
+| 360d | 2025-11-21 | 30 | 356 | 7 | 44 | 12 | 339 |
+| last720d | 2024-11-26 | 66 | 716 | 10 | 106 | 33 | 669 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:52:29Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:06:30Z._
