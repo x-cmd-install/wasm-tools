@@ -1,3 +1,47 @@
+- repo: nix_stable_24_05
+  srcname: wasm-tools
+  visiblename: wasm-tools
+  version: 1.215.0
+  origversion: null
+  status: outdated
+  summary: Low level tooling for WebAssembly in Rust
+  maintainers:
+    - ereslibre@ereslibre.es
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: wasm-tools
+  visiblename: wasm-tools
+  version: 1.222.1
+  origversion: null
+  status: outdated
+  summary: Low level tooling for WebAssembly in Rust
+  maintainers:
+    - ereslibre@ereslibre.es
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: wasm-tools
+  visiblename: wasm-tools
+  version: 1.229.0
+  origversion: null
+  status: outdated
+  summary: Low level tooling for WebAssembly in Rust
+  maintainers:
+    - ereslibre@ereslibre.es
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: wasm-tools
+  visiblename: wasm-tools
+  version: 1.239.0
+  origversion: null
+  status: outdated
+  summary: Low level tooling for WebAssembly in Rust
+  maintainers:
+    - ereslibre@ereslibre.es
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_22
   subrepo: community
   srcname: wasm-tools
@@ -147,9 +191,9 @@
   srcname: wasm-tools
   binname: wasm-tools
   visiblename: wasm-tools
-  version: 1.261.0
-  origversion: 1.261.0-1
-  status: outdated
+  version: 1.263.0
+  origversion: 1.263.0-1
+  status: newest
   summary: Low level tooling for WebAssembly in Rust
   licenses:
     - Apache-2.0
@@ -351,50 +395,6 @@
   summary: Low level tooling for WebAssembly in Rust (mingw-w64)
   licenses:
     - spdx:Apache-2.0 WITH LLVM-exception AND Apache-2.0 AND MIT
-- repo: nix_stable_24_05
-  srcname: wasm-tools
-  visiblename: wasm-tools
-  version: 1.215.0
-  origversion: null
-  status: outdated
-  summary: Low level tooling for WebAssembly in Rust
-  maintainers:
-    - ereslibre@ereslibre.es
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_11
-  srcname: wasm-tools
-  visiblename: wasm-tools
-  version: 1.222.1
-  origversion: null
-  status: outdated
-  summary: Low level tooling for WebAssembly in Rust
-  maintainers:
-    - ereslibre@ereslibre.es
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_05
-  srcname: wasm-tools
-  visiblename: wasm-tools
-  version: 1.229.0
-  origversion: null
-  status: outdated
-  summary: Low level tooling for WebAssembly in Rust
-  maintainers:
-    - ereslibre@ereslibre.es
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: wasm-tools
-  visiblename: wasm-tools
-  version: 1.239.0
-  origversion: null
-  status: outdated
-  summary: Low level tooling for WebAssembly in Rust
-  maintainers:
-    - ereslibre@ereslibre.es
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_26_05
   srcname: wasm-tools
   visiblename: wasm-tools
@@ -418,7 +418,7 @@
   licenses:
     - Apache-2.0
 - repo: openmamba
-  subrepo: devel-makedist
+  subrepo: base
   srcname: wasm-tools
   binnames:
     - wasm-tools
