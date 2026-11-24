@@ -42,6 +42,13 @@
     - ereslibre@ereslibre.es
   licenses:
     - Apache-2.0
+- repo: homebrew
+  srcname: wasm-tools
+  visiblename: wasm-tools
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Low level tooling for WebAssembly in Rust
 - repo: alpine_3_22
   subrepo: community
   srcname: wasm-tools
@@ -296,13 +303,6 @@
   origversion: null
   status: newest
   summary: Low level tooling for WebAssembly in Rust
-- repo: homebrew
-  srcname: wasm-tools
-  visiblename: wasm-tools
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Low level tooling for WebAssembly in Rust
 - repo: kali_rolling
   subrepo: main
   srcname: wasm-tools
@@ -337,8 +337,8 @@
   srcname: wasm-tools
   binname: wasm-tools
   visiblename: wasm-tools
-  version: 1.258.0
-  origversion: 1.258.0-1
+  version: 1.261.0
+  origversion: 1.261.0-1
   status: outdated
   summary: Low level tooling for WebAssembly in Rust
   licenses:
