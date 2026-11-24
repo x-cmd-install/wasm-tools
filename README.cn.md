@@ -26,7 +26,7 @@ x install wasm-tools
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.1 / 10**
+总评分: **6.1 / 10**
 
 评分最低的几项:
 
@@ -47,7 +47,7 @@ x install wasm-tools
 
 ## 流行度
 
-- **Star**: 1,818 · **Fork**: 365 · **开放 issue**: 493 · **贡献者**: 205
+- **Star**: 1,819 · **Fork**: 365 · **开放 issue**: 493 · **贡献者**: 205
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install wasm-tools
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 36 | 5 | 3 | 5 | 32 |
-| last60d | 2026-09-24 | 8 | 136 | 7 | 11 | 8 | 107 |
-| 90d | 2026-08-25 | 9 | 182 | 7 | 16 | 8 | 167 |
-| last180d | 2026-05-27 | 18 | 259 | 9 | 22 | 12 | 243 |
-| 360d | 2025-11-28 | 29 | 366 | 9 | 44 | 14 | 353 |
-| last720d | 2024-12-03 | 63 | 715 | 12 | 102 | 36 | 673 |
+| 30d | 2026-10-25 | 1 | 36 | 5 | 3 | 5 | 32 |
+| last60d | 2026-09-25 | 8 | 134 | 7 | 11 | 8 | 107 |
+| 90d | 2026-08-26 | 9 | 179 | 7 | 16 | 8 | 167 |
+| last180d | 2026-05-28 | 18 | 257 | 9 | 22 | 12 | 243 |
+| 360d | 2025-11-29 | 29 | 366 | 9 | 44 | 14 | 353 |
+| last720d | 2024-12-04 | 63 | 715 | 12 | 102 | 36 | 668 |
 
 ## Release 资产
 
@@ -88,7 +88,7 @@ x install wasm-tools
 | Debian unstable | `1.239.0` | ⚠️ outdated |
 | Debian 14 | `1.239.0` | ⚠️ outdated |
 | Arch | `1.263.0` | ✅ latest |
-| Homebrew | `1.263.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.263.0` | ✅ latest |
 | Void | `1.257.0` | ⚠️ outdated |
 | Alpine edge | `1.261.0` | ⚠️ outdated |
@@ -102,4 +102,4 @@ wasm-tools 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T07:59:28Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:50:40Z._

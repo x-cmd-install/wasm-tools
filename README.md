@@ -26,7 +26,7 @@ Total: **2,055,136** lines of code across **2659** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **6.1 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,818 · **Forks**: 365 · **Open issues**: 493 · **Contributors**: 205
+- **Stars**: 1,819 · **Forks**: 365 · **Open issues**: 493 · **Contributors**: 205
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 36 | 5 | 3 | 5 | 32 |
-| last60d | 2026-09-24 | 8 | 136 | 7 | 11 | 8 | 107 |
-| 90d | 2026-08-25 | 9 | 182 | 7 | 16 | 8 | 167 |
-| last180d | 2026-05-27 | 18 | 259 | 9 | 22 | 12 | 243 |
-| 360d | 2025-11-28 | 29 | 366 | 9 | 44 | 14 | 353 |
-| last720d | 2024-12-03 | 63 | 715 | 12 | 102 | 36 | 673 |
+| 30d | 2026-10-25 | 1 | 36 | 5 | 3 | 5 | 32 |
+| last60d | 2026-09-25 | 8 | 134 | 7 | 11 | 8 | 107 |
+| 90d | 2026-08-26 | 9 | 179 | 7 | 16 | 8 | 167 |
+| last180d | 2026-05-28 | 18 | 257 | 9 | 22 | 12 | 243 |
+| 360d | 2025-11-29 | 29 | 366 | 9 | 44 | 14 | 353 |
+| last720d | 2024-12-04 | 63 | 715 | 12 | 102 | 36 | 668 |
 
 ## Release assets
 
@@ -88,7 +88,7 @@ Reported by **42** distros on [repology.org](https://repology.org/project/wasm-t
 | Debian unstable | `1.239.0` | ⚠️ outdated |
 | Debian 14 | `1.239.0` | ⚠️ outdated |
 | Arch | `1.263.0` | ✅ latest |
-| Homebrew | `1.263.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.263.0` | ✅ latest |
 | Void | `1.257.0` | ⚠️ outdated |
 | Alpine edge | `1.261.0` | ⚠️ outdated |
@@ -102,4 +102,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:59:28Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:50:40Z._
