@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 129 · **Merged PRs**: 2197 · **Open PRs**: 19 · **Closed issues**: 381 · **Open issues**: 112 · **Commits**: 3487
+- **Releases**: 129 · **Merged PRs**: 2197 · **Open PRs**: 20 · **Closed issues**: 381 · **Open issues**: 112 · **Commits**: 3487
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 36 | 4 | 3 | 5 | 35 |
-| last60d | 2026-09-27 | 8 | 135 | 6 | 11 | 8 | 110 |
-| 90d | 2026-08-28 | 9 | 179 | 6 | 16 | 8 | 170 |
-| last180d | 2026-05-30 | 17 | 258 | 8 | 22 | 12 | 246 |
-| 360d | 2025-12-01 | 29 | 366 | 8 | 44 | 14 | 356 |
-| last720d | 2024-12-06 | 63 | 712 | 11 | 101 | 36 | 668 |
+| 30d | 2026-10-28 | 1 | 36 | 5 | 3 | 5 | 35 |
+| last60d | 2026-09-28 | 8 | 123 | 7 | 11 | 8 | 110 |
+| 90d | 2026-08-29 | 9 | 179 | 7 | 16 | 8 | 170 |
+| last180d | 2026-05-31 | 17 | 258 | 9 | 22 | 12 | 246 |
+| 360d | 2025-12-02 | 29 | 366 | 9 | 44 | 14 | 356 |
+| last720d | 2024-12-07 | 63 | 711 | 12 | 101 | 36 | 666 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for wasm-tools lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:39:00Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:59:01Z._
